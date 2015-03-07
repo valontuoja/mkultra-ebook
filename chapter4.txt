@@ -1,0 +1,5 @@
+Pärisijä on venäläinen sotilasasema, joka sijaitsee luultavasti läntisessä sotilaspiirissä. Toimii kerron ympäri taajuudella 4626 kHz lähettäen äänetä, joka muistuttaa summeria tai sumutorvea kanavamerkkinä noin 20 kertaa minuutissa. Lähettää lyhyitä, ilmeisesti epäsäännöllisiä ääniviestejä Venäjäksi. Raportit aktiviteetista jatkuvat vuodesta 1976 vuoteen 1982, tässä vaiheessa asema käytti erilaista kanavamerkkiääntä ja siirtyi nykyiseen ääneen vuoden 1990 aikoihin.
+ 
+Modulaatio on yleensä AM vaimennetulla alemmalla sivunauhalla, mutta vaihtelee, asema käyttää useampia eri lähettimiä. Lähetyksen laatu on usein huono ja yleisiä parasiitteja on taajuuksilla 4585, 4666, 4712, 4753 ja joskus harmoninen taajuudella 9250 kHz. Lähettimen pysähtymiset ja yliajetut lähetykset ovat yleisiä sattumia. Huolimatta ENIGMA:n (The European Numbers Information Gathering & Monitoring Association) sille antamasta tunnuksesta S28 huolimatta se ei ole numeroasema.
+ 
+Asema tunnetaan usein nimellä UVB-76, UZB-76, MDZhB, S28, The Buzzer ja venäjäksi жужжалка.
